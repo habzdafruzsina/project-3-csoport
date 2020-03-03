@@ -1,0 +1,34 @@
+API-K:
+	Offline map: https://wiki.openstreetmap.org/wiki/Using_OpenStreetMap_offline
+	Mapbox GL: https://wiki.openstreetmap.org/wiki/Mapbox_GL
+	Mapbox GL examles: https://docs.mapbox.com/mapbox-gl-js/examples/
+	Időjárás: https://openweathermap.org/api
+
+Minta app-ok:
+	Minta fotós segítő app: https://play.google.com/store/apps/details?id=exsate.goldenhour
+	Minta GPS Tracker app: https://play.google.com/store/apps/details?id=com.endomondo.android
+	Expozíció számló: https://play.google.com/store/apps/details?id=com.quicosoft.exposurecalculator.app
+	Stopper: https://play.google.com/store/apps/details?id=com.hybrid.stopwatch
+
+Szükséges ismeretek:
+	Napkelte és napnyugta számítása:
+	https://maas.museum/observations/2007/10/30/how-to-calculate-sunrise-and-set-a-worked-example/
+	https://www.esrl.noaa.gov/gmd/grad/solcalc/solareqns.PDF
+	Napkelte JS:
+	https://github.com/mourner/suncalc
+	https://stackoverflow.com/questions/18949074/calculating-sunrise-sunset-times-in-javascript
+	ND Szűrőzés számolása:
+	http://www.vassilistangoulis.com/gr/?p=4958
+	Záridő számítás:
+	https://www.dpreview.com/forums/post/57210953
+	Záridő táblázatban:
+	https://www.flickr.com/photos/8banners/405848357
+	Holdfázisok számítása (JS):
+	https://gist.github.com/L-A/3497902
+	Holdfázisok számításának elmélete:
+	https://www.subsystems.us/uploads/9/8/9/4/98948044/moonphase.pdf
+	
+	Érdekes:
+	https://aneejian.com/handheld-shutter-speed-calculator/
+	http://www.brisk.org.uk/photog/subblur.html
+	
